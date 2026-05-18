@@ -50,7 +50,7 @@
 1. **Clone the Repository**:
 
 ```bash
-   git clone https://github.com/PrajwalLokesh007/Mindmatrix\_Project\_80.git
+   git clone https://github.com/MouryaGangadhar/Paryavaran-kavalu
    ```
 
 2. **Firebase Setup**:
